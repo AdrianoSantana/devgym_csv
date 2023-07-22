@@ -22,4 +22,8 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\devgym-csv.app\devgym-csv.app.csproj" />
+  </ItemGroup>
+
 </Project>
